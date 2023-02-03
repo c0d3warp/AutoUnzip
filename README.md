@@ -10,7 +10,7 @@ Place the 'AutoUnzip.cmd' and 'ascii-art.txt' (If you prefer) into the directory
 - Lightweight.
 
 # Screenshots
-
+![image](https://user-images.githubusercontent.com/68805132/216491768-3597caef-96b7-48fc-a126-d9f11c74ce00.png)
 
 # To-Do
 - Support .rar archives.
