@@ -9,6 +9,9 @@ Place the 'AutoUnzip.cmd' and 'ascii-art.txt' (If you prefer) into the directory
 - Run at startup by creating a shortcut in Windows startup folder.
 - Lightweight.
 
+# Screenshots
+
+
 # To-Do
 - Support .rar archives.
 - Decompress multi-part archives.
