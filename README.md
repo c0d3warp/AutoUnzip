@@ -18,5 +18,5 @@ Make sure 7zip binary is in systems PATH.
 # To-Do
 
 
--<del>Support .rar archives.</del>
+- <del> Support .rar archives.</del>
 - Decompress multi-part archives.
