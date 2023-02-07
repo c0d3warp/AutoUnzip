@@ -16,7 +16,7 @@ Make sure 7zip binary is in systems PATH.
 ![image](https://user-images.githubusercontent.com/68805132/216492553-fae945d2-5aad-4120-8c81-a9f4b2afb89c.png)
 
 # To-Do
-- Support .rar archives.
+
+
+-<del>Support .rar archives.</del>
 - Decompress multi-part archives.
-<del>some stricken code</del>
-<del>A second line of stricken code</del>
