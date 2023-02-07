@@ -19,3 +19,6 @@ Make sure 7zip binary is in systems PATH.
 - Support .rar archives.
 - Decompress multi-part archives.
 <pre><code><del>some stricken code</del>
+<del>A second line of stricken code</del>
+</code></pre>
+
